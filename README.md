@@ -1,2 +1,3 @@
 # Automatic-Irrigation-System
 Using a multitude of components, I designed a circuit that could interact with external components to create a system that automatically irrigates a plant.
+Utilizing a capacitor-based moisture sensor, relay module, water pump motor, Arduino Uno, 4 Lithium-Ion batteries soldered in series to make 6V, a light switch, and a breadboard which had a red, yellow, and green led to indicate moisture level, it was combined together to create a system in which when turned on would allow the user to autonomously irrigate their plant. The sensor would stick into the dirt, the code would dictate whether the soil was dry enough to need water, and then the relay module would pulse the water pump until the sensor would read the moisture level as adequate.
